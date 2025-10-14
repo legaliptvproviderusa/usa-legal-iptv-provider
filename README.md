@@ -25,7 +25,11 @@ To make **premium television accessible, legal, and safe** for everyone.
 - 📞 Contact: +1 251-316-0419  
 - 🇺🇸 Location: Sheridan, Wyoming, USA  
 
+## Related Repositories
+- [Official Profile Repository](https://github.com/legaliptvproviderusa)
+- 
 ---
 
 © 2025 USA Legal IPTV Provider  
 Providing legal and compliant IPTV streaming solutions across the United States.
+
